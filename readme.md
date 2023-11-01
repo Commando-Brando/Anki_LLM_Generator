@@ -12,6 +12,20 @@ However, creating flash cards is a time consuming process and I wanted to create
 
 This project aims to bridge that gap by using a large language model to generate flash cards for any topic.
 
+## References
+
+Anki's philosophy follows the practice of spaced repitition learning and active recall testing, read more about at the [Anki Background Page](https://docs.ankiweb.net/background.html). 
+
+Previous academic papers on the topics of Anki, Spaced Repitition, & Recall Testing
+
+[The effectiveness of computer-based spaced repetition in foreign language vocabulary instruction](https://www.jstor.org/stable/90014364)
+
+[An Analysis of Anki Usage and Strategy of First-Year Medical Students in a Structure and Function Course](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9045547/)
+
+[A Cohort Study Assessing the Impact of Anki as a Spaced Repetition Tool on Academic Performance in Medical School](https://link.springer.com/article/10.1007/s40670-023-01826-8)
+
+[Enhanced Learning and Retention of Medical Knowledge Using the Mobile Flash card Application Anki](https://link.springer.com/article/10.1007/s40670-021-01386-9)
+
 ## Roadmap
 
 ### V0.0.1
