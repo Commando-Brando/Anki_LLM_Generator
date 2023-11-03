@@ -26,6 +26,8 @@ Previous academic papers on the topics of Anki, Spaced Repitition, & Recall Test
 
 [Enhanced Learning and Retention of Medical Knowledge Using the Mobile Flash card Application Anki](https://link.springer.com/article/10.1007/s40670-021-01386-9)
 
+[Relearning and Retaining Personally-Relevant Words using Computer-Based Flashcard Software in Primary Progressive Aphasia](https://www.frontiersin.org/articles/10.3389/fnhum.2016.00561/full)
+
 ## Roadmap
 
 ### V0.0.1
@@ -50,6 +52,7 @@ Previous academic papers on the topics of Anki, Spaced Repitition, & Recall Test
 - Student who does not have time to make flash cards can easily do so from any document that contains text
 - Teacher/Professor can easily create flash cards for their students
 - Language learning can greatly be accelerated and thereby used by any language teaching processes including the United States Military accelerated language learning programs
+- In medical situations where a patient needs to relearn things or train their brain in certain ways for memory. Anki cards have been found to be helpful in helping patients with Aphasia
 
 I think for a lot of college courses if flash cards were readily available for each course it could be a huge help for students. I think this tool could be a huge help for students who are struggling in a course and need a way to quickly learn and retain information.
 
