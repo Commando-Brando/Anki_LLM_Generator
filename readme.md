@@ -49,6 +49,7 @@ Previous academic papers on the topics of Anki, Spaced Repitition, & Recall Test
 
 - Student who does not have time to make flash cards can easily do so from any document that contains text
 - Teacher/Professor can easily create flash cards for their students
+- Language learning can greatly be accelerated and thereby used by any language teaching processes including the United States Military accelerated language learning programs
 
 I think for a lot of college courses if flash cards were readily available for each course it could be a huge help for students. I think this tool could be a huge help for students who are struggling in a course and need a way to quickly learn and retain information.
 
