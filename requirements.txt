@@ -3,5 +3,10 @@ mkdocs
 mkdocs-material
 mkdocstrings
 mkdocstrings-python
-
-
+transformers
+langchain
+pandas
+accelerate
+torch
+torchvision
+torchaudio

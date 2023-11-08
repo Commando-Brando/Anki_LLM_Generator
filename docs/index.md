@@ -1,17 +1,21 @@
-# Welcome to MkDocs
+# Anki LLM Generator
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Approaches
 
-## Commands
+Could use OSS model and ChatGPT
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Could use RAG Architecture
 
-## Project layout
+Could read in all Anki docs for vector database
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Could download all Anki decks and use them as a corpus
+
+Could use a pretrained model and fine tune it on Anki decks
+
+Could use a pretrained model and fine tune it on Anki docs
+
+I think it would be good to compare the best OSS LLAMA model against ChatGPT 4 Turbo.
+
+ChatGPT 4 Turbo should be able to produce good Anki cards
+
+Using LLAMA should prove even more so the cost effectiveness of a tool of this caliber
