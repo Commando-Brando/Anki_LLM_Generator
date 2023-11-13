@@ -66,3 +66,7 @@ If you would like to contribute then first off thanks for the help and then go t
 2. Create Virtual Environment `python3 -m venv menv` 
 3. Activate Virtual Environment `source menv/bin/activate`
 4. Install dependencies `pip install -r requirements.txt`
+
+Install [Cuda here](https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html)
+
+

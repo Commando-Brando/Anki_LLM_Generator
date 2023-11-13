@@ -1,0 +1,20 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true
+        },
+    },
+    "isort.args": [
+        "--profile",
+        "black"
+    ],
+    "python.defaultInterpreterPath": "menv\\Scripts\\python.exe",
+    "autoDocstring.quoteStyle": "\"\"\"",
+    "autoDocstring.docstringFormat": "pep257",
+    "editor.formatOnSave": true,
+    "ruff.interpreter": [
+        "menv\\Scripts\\python.exe"
+    ],
+}
